@@ -1,4 +1,4 @@
-# vaporize
+# ｖａｐｏｒｉｚｅ
 An extremely simple vaporwave text generator
 
 ## Installation 
